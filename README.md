@@ -14,6 +14,7 @@
 * click on start button
 
 * username:
-  * admin
+  * malik
 * password:
-  * admin
+  * malik
+
